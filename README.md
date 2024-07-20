@@ -24,14 +24,10 @@ Instalação
 
     Clone o repositório:
 
-    sh
-
 git clone https://github.com/danielqueirozc/Users.git
 cd nome-do-repositorio
 
 Execute o projeto:
 Certifique-se de ter o Go instalado em sua máquina. Para executar o projeto, utilize o comando:
-
-sh
 
 go run main.go
